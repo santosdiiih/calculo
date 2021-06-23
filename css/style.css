@@ -29,6 +29,7 @@ header p{
 .conteudo{
     width: 90%;
     height: 600px;
+    margin-bottom: 20px;
 }
 .linha{
     width: 1300;
