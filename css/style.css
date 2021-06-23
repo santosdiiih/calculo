@@ -5,7 +5,7 @@
 }
 #card-principal{
     width: 1365px;
-    height: 90px;
+    height: 150px;
 }
 header{
     width: 100%;
@@ -17,7 +17,13 @@ header{
     font-size: 1.2em;
 }
 header p{
-    padding-left: 200px;
+    padding-left: 100px;
+}
+
+.card{
+    width: 680px;
+    height: 150px;
+    float: left;
 }
 
 .conteudo{
